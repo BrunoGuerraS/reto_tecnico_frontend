@@ -1,8 +1,8 @@
 # Login page
 
-## Description:
+## Descripcion:
 
-### In the following repository we can find the base code for the development of our registration page 
+### En el siguiente repositorio encontraremos el desarrollo del frontend para la pagina de registro y dashboard
 
  run             | Command                                                                |
 | ----------------- | ------------------------------------------------------------------ |
